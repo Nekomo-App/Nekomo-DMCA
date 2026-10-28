@@ -14,6 +14,10 @@ Nekomo is an open-source application designed to provide an interface for discov
 
 Nekomo does **not** host, store, upload, distribute, or directly provide any media content.
 
+Nekomo also ships with **no sources, repositories, extensions or streaming providers**. Users find, add and install any such components themselves, and those remain the responsibility of their authors and of the user.
+
+The current, official version of this notice is on the website: [nekomoapp.netlify.app/dmca](https://nekomoapp.netlify.app/dmca).
+
 ---
 
 ## 🔗 Third-Party Services
@@ -41,6 +45,7 @@ Nekomo is **not affiliated with, endorsed by, sponsored by, or officially connec
 - MyAnimeList
 - Kitsu
 - TMDb
+- CloudStream, Aniyomi, Mihon, Zangetsu or the authors of any extension
 - Any other content provider, service, company, or trademark owner
 
 Any references to third-party names, logos, trademarks, or services are used for identification purposes only.
