@@ -14,7 +14,7 @@ Nekomo is an open-source application designed to provide an interface for discov
 
 Nekomo does **not** host, store, upload, distribute, or directly provide any media content.
 
-Nekomo also ships with **no sources, repositories, extensions or streaming providers**. Users find, add and install any such components themselves, and those remain the responsibility of their authors and of the user.
+Nekomo ships with **no sources, extensions or streaming providers installed**. An optional official repository of free and legal sources exists, but nothing is installed until the user adds it and confirms. Users find, add and install any such components themselves, and those remain the responsibility of their authors and of the user.
 
 The current, official version of this notice is on the website: [nekomoapp.netlify.app/dmca](https://nekomoapp.netlify.app/dmca).
 
