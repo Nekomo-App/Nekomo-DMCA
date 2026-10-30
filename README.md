@@ -90,3 +90,13 @@ By downloading, installing, accessing, contributing to, or using Nekomo, you ack
 *Use responsibly. Respect copyright. Follow applicable laws.*
 
 </div>
+
+## Project links
+
+- Website: https://nekomoapp.netlify.app ([screenshots](https://nekomoapp.netlify.app/gallery), [sources guide](https://nekomoapp.netlify.app/sources))
+- App: [Nekomo](https://github.com/Nekomo-App/Nekomo) and its code in [Neko-Source](https://github.com/Nekomo-App/Neko-Source)
+- Docs: [Nekomo-Docs](https://github.com/Nekomo-App/Nekomo-Docs) and [Nekomo-Extensions](https://github.com/Nekomo-App/Nekomo-Extensions)
+- Website source: [Nekomo-Main-Web](https://github.com/Nekomo-App/Nekomo-Main-Web)
+- Legal: [Nekomo-DMCA](https://github.com/Nekomo-App/Nekomo-DMCA)
+- Brand: [Nekomo-Branding](https://github.com/Nekomo-App/Nekomo-Branding)
+- History: [OG-Kuro-No-Source](https://github.com/Nekomo-App/OG-Kuro-No-Source) (archive) and [Nekomo-Web](https://github.com/Nekomo-App/Nekomo-Web) (retired)
